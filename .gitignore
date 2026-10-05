@@ -1,0 +1,6 @@
+
+# GitHub 单文件 100MiB 硬限制：再分发二进制只留在本地，不入库
+# (emsdk 的 node/clang 已被 emsdk 自带 .gitignore 排除)
+emsdk/node/24.19.0_64bit/bin/node
+emsdk/upstream/bin/clang-24
+sdlpal/emscripten/sdlpal.data.zip
